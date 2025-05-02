@@ -1,29 +1,29 @@
 const sampleData = {
   personalInfo: {
-    firstName: "Mik",
+    firstName: "sha",
     lastName: "B",
     email: "myemail-is-not-real@gmail.com",
-    phone: "123-456-7890",
+    phone: "12+4567890",
   },
   education: [
     {
-      schoolName: "Udacity",
-      degree: "Front-End Web Developer Nanodegree",
+      schoolName: "Johnson",
+      degree: "Front-End Web Developer",
       startDate: "12/2014",
       endDate: "04/2015",
       isCollapsed: true,
       id: crypto.randomUUID(),
     },
     {
-      schoolName: "University of Nevada, Las Vegas",
-      degree: "Computer Science, BS & Minor in Mathematics",
+      schoolName: "University of Web",
+      degree: "Computer Science",
       startDate: "08/2010",
       endDate: "12/2012",
       isCollapsed: true,
       id: crypto.randomUUID(),
     },
     {
-      schoolName: "College of Southern Nevada",
+      schoolName: "College of WEb",
       degree: "",
       startDate: "08/2008",
       endDate: "07/2010",
